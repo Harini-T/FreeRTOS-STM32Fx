@@ -19,6 +19,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005LED_Task_Notify/activeLaunch
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006LED_Btn_ISR/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:006LED_Btn_ISR/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:008Queues_n_Timers/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:008Queues_n_Timers/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_Projects/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS_Projects/activeLaunchTarget=null\:---
 org.eclipse.launchbar.core.descriptorType.default\:001Tasks\ Debug/activeLaunchMode=run
